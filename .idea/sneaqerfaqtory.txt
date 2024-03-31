@@ -1,0 +1,11 @@
+Server=tcp:sneakerfaqtory.database.windows.net,1433;
+Initial Catalog=sneakerfaqtorysrc;
+Persist Security Info=False;
+User ID=gcpsmartdataplatform;
+Password=Valc0nSDP!;
+MultipleActiveResultSets=False;
+Encrypt=True;
+TrustServerCertificate=False;
+Connection Timeout=30;
+;database=sneakerfaqtorysrc;encrypt=true;trustServerCertificate=false;
+hostNameInCertificate=*.database.windows.net;loginTimeout=30;
